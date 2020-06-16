@@ -11,5 +11,3 @@ three potentiometer that can be used to control light intencity, and three butto
 
 Here is the the schematics\
 <img width="642" alt="Screen Shot 2020-06-02 at 10 05 36 AM" src="https://user-images.githubusercontent.com/57555013/83532258-000ed380-a4bc-11ea-8707-141c4d26cf9b.png">
-
- 
