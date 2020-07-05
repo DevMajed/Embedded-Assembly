@@ -10,3 +10,6 @@ The tri-color LED is connected to ports as follows\
 
 The result\
 <img width="358" alt="Screen Shot 2020-06-02 at 10 37 10 AM" src="https://user-images.githubusercontent.com/57555013/83533023-0cdff700-a4bd-11ea-9c29-5a735630ead7.png">
+
+
+Note that the figure above is from a handout that our proffisor gave to us, for that reason i archeaved this repo becuase he does not want his work to be open source. The code and the sulotions are all mine and anyone welcome to use them
