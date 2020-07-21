@@ -79,8 +79,3 @@ The figure above taken from the lab handout provided by our proffisor for the em
 <img width="668" alt="Screen Shot 2020-06-03 at 5 04 03 AM" src="https://user-images.githubusercontent.com/57555013/83617890-ba074d80-a557-11ea-8cba-a11e1f4bbb99.png">
 
 
-Note that the figures above are from a handout that our proffisor gave to us,
-for that reason i archeaved this repo becuase he does not want his work to be open source.
-The code and the sulotions are all mine and anyone welcome to use them
-
-
